@@ -1,0 +1,55 @@
+model_name,learning_rate,batch_size,epochs,weight_decay,eval_loss,train_time,status,save_path
+FineLlama-3.1-8B_instruct_eval_lr5e-05_batch4_epochs1_wd0.01_WithoutReasonings,5e-05,4,1,0.01,1.87693190574646,384.4871683120728,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr5e-05_batch4_epochs1_wd0.01_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr5e-05_batch4_epochs1_wd0.1_WithoutReasonings,5e-05,4,1,0.1,1.8789961338043213,366.6989412307739,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr5e-05_batch4_epochs1_wd0.1_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr5e-05_batch4_epochs3_wd0.01_WithoutReasonings,5e-05,4,3,0.01,1.9103295803070068,928.585036277771,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr5e-05_batch4_epochs3_wd0.01_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr5e-05_batch4_epochs3_wd0.1_WithoutReasonings,5e-05,4,3,0.1,1.9377838373184204,932.7812116146088,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr5e-05_batch4_epochs3_wd0.1_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr5e-05_batch4_epochs5_wd0.01_WithoutReasonings,5e-05,4,5,0.01,1.9910471439361568,1496.379174232483,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr5e-05_batch4_epochs5_wd0.01_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr5e-05_batch4_epochs5_wd0.1_WithoutReasonings,5e-05,4,5,0.1,2.0330028533935547,1496.8775930404663,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr5e-05_batch4_epochs5_wd0.1_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr5e-05_batch8_epochs1_wd0.01_WithoutReasonings,5e-05,8,1,0.01,2.580461978912353,346.1778829097748,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr5e-05_batch8_epochs1_wd0.01_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr5e-05_batch8_epochs1_wd0.1_WithoutReasonings,5e-05,8,1,0.1,2.591782093048096,334.8487274646759,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr5e-05_batch8_epochs1_wd0.1_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr5e-05_batch8_epochs3_wd0.01_WithoutReasonings,5e-05,8,3,0.01,2.6258087158203125,849.0929238796234,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr5e-05_batch8_epochs3_wd0.01_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr5e-05_batch8_epochs3_wd0.1_WithoutReasonings,5e-05,8,3,0.1,2.6122426986694336,854.0644631385803,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr5e-05_batch8_epochs3_wd0.1_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr5e-05_batch8_epochs5_wd0.01_WithoutReasonings,5e-05,8,5,0.01,2.7264397144317627,1357.4606628417969,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr5e-05_batch8_epochs5_wd0.01_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr5e-05_batch8_epochs5_wd0.1_WithoutReasonings,5e-05,8,5,0.1,2.735852003097534,1358.0880601406095,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr5e-05_batch8_epochs5_wd0.1_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr5e-05_batch16_epochs1_wd0.01_WithoutReasonings,5e-05,16,1,0.01,,,OOM Error,
+FineLlama-3.1-8B_instruct_eval_lr5e-05_batch16_epochs1_wd0.1_WithoutReasonings,5e-05,16,1,0.1,,,OOM Error,
+FineLlama-3.1-8B_instruct_eval_lr5e-05_batch16_epochs3_wd0.01_WithoutReasonings,5e-05,16,3,0.01,,,OOM Error,
+FineLlama-3.1-8B_instruct_eval_lr5e-05_batch16_epochs3_wd0.1_WithoutReasonings,5e-05,16,3,0.1,,,OOM Error,
+FineLlama-3.1-8B_instruct_eval_lr5e-05_batch16_epochs5_wd0.01_WithoutReasonings,5e-05,16,5,0.01,,,OOM Error,
+FineLlama-3.1-8B_instruct_eval_lr5e-05_batch16_epochs5_wd0.1_WithoutReasonings,5e-05,16,5,0.1,,,OOM Error,
+FineLlama-3.1-8B_instruct_eval_lr0.0005_batch4_epochs1_wd0.01_WithoutReasonings,0.0005,4,1,0.01,1.8194196224212649,369.8671576976776,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0005_batch4_epochs1_wd0.01_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0005_batch4_epochs1_wd0.1_WithoutReasonings,0.0005,4,1,0.1,1.87484073638916,373.3297250270844,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0005_batch4_epochs1_wd0.1_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0005_batch4_epochs3_wd0.01_WithoutReasonings,0.0005,4,3,0.01,2.029049158096313,936.0076491832732,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0005_batch4_epochs3_wd0.01_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0005_batch4_epochs3_wd0.1_WithoutReasonings,0.0005,4,3,0.1,2.2552552223205566,931.8402535915376,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0005_batch4_epochs3_wd0.1_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0005_batch4_epochs5_wd0.01_WithoutReasonings,0.0005,4,5,0.01,1.8964881896972656,1498.2928400039673,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0005_batch4_epochs5_wd0.01_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0005_batch4_epochs5_wd0.1_WithoutReasonings,0.0005,4,5,0.1,1.852210283279419,1502.7679815292358,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0005_batch4_epochs5_wd0.1_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0005_batch8_epochs1_wd0.01_WithoutReasonings,0.0005,8,1,0.01,2.0609731674194336,349.3974521160126,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0005_batch8_epochs1_wd0.01_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0005_batch8_epochs1_wd0.1_WithoutReasonings,0.0005,8,1,0.1,2.463860511779785,335.12717628479004,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0005_batch8_epochs1_wd0.1_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0005_batch8_epochs3_wd0.01_WithoutReasonings,0.0005,8,3,0.01,2.7204806804656982,880.6912744045258,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0005_batch8_epochs3_wd0.01_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0005_batch8_epochs3_wd0.1_WithoutReasonings,0.0005,8,3,0.1,3.0440011024475098,862.7864215373993,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0005_batch8_epochs3_wd0.1_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0005_batch8_epochs5_wd0.01_WithoutReasonings,0.0005,8,5,0.01,3.1152184009552,1385.7730560302734,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0005_batch8_epochs5_wd0.01_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0005_batch8_epochs5_wd0.1_WithoutReasonings,0.0005,8,5,0.1,3.187053203582764,1392.7761714458466,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0005_batch8_epochs5_wd0.1_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0005_batch16_epochs1_wd0.01_WithoutReasonings,0.0005,16,1,0.01,,,OOM Error,
+FineLlama-3.1-8B_instruct_eval_lr0.0005_batch16_epochs1_wd0.1_WithoutReasonings,0.0005,16,1,0.1,,,OOM Error,
+FineLlama-3.1-8B_instruct_eval_lr0.0005_batch16_epochs3_wd0.01_WithoutReasonings,0.0005,16,3,0.01,,,OOM Error,
+FineLlama-3.1-8B_instruct_eval_lr0.0005_batch16_epochs3_wd0.1_WithoutReasonings,0.0005,16,3,0.1,,,OOM Error,
+FineLlama-3.1-8B_instruct_eval_lr0.0005_batch16_epochs5_wd0.01_WithoutReasonings,0.0005,16,5,0.01,,,OOM Error,
+FineLlama-3.1-8B_instruct_eval_lr0.0005_batch16_epochs5_wd0.1_WithoutReasonings,0.0005,16,5,0.1,,,OOM Error,
+FineLlama-3.1-8B_instruct_eval_lr0.0001_batch4_epochs1_wd0.01_WithoutReasonings,0.0001,4,1,0.01,2.2158145904541016,370.3555171489716,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0001_batch4_epochs1_wd0.01_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0001_batch4_epochs1_wd0.1_WithoutReasonings,0.0001,4,1,0.1,2.2034010887146,370.5883870124817,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0001_batch4_epochs1_wd0.1_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0001_batch4_epochs3_wd0.01_WithoutReasonings,0.0001,4,3,0.01,2.2414333820343018,949.0043151378632,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0001_batch4_epochs3_wd0.01_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0001_batch4_epochs3_wd0.1_WithoutReasonings,0.0001,4,3,0.1,2.460125684738159,947.9380254745485,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0001_batch4_epochs3_wd0.1_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0001_batch4_epochs5_wd0.01_WithoutReasonings,0.0001,4,5,0.01,2.6115031242370605,1536.7227351665497,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0001_batch4_epochs5_wd0.01_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0001_batch4_epochs5_wd0.1_WithoutReasonings,0.0001,4,5,0.1,2.4175655841827397,1526.8794827461245,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0001_batch4_epochs5_wd0.1_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0001_batch8_epochs1_wd0.01_WithoutReasonings,0.0001,8,1,0.01,3.510220050811768,339.3974041938782,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0001_batch8_epochs1_wd0.01_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0001_batch8_epochs1_wd0.1_WithoutReasonings,0.0001,8,1,0.1,3.441385269165039,339.49459886550903,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0001_batch8_epochs1_wd0.1_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0001_batch8_epochs3_wd0.01_WithoutReasonings,0.0001,8,3,0.01,3.577192783355713,875.2272212505341,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0001_batch8_epochs3_wd0.01_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0001_batch8_epochs3_wd0.1_WithoutReasonings,0.0001,8,3,0.1,3.3534188270568848,864.9800591468811,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0001_batch8_epochs3_wd0.1_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0001_batch8_epochs5_wd0.01_WithoutReasonings,0.0001,8,5,0.01,2.717993974685669,1383.4941139221191,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0001_batch8_epochs5_wd0.01_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0001_batch8_epochs5_wd0.1_WithoutReasonings,0.0001,8,5,0.1,2.778571367263794,1362.7969172000885,Success,trained_models_WithoutReasonings/FineLlama-3.1-8B_instruct_eval_lr0.0001_batch8_epochs5_wd0.1_WithoutReasonings
+FineLlama-3.1-8B_instruct_eval_lr0.0001_batch16_epochs1_wd0.01_WithoutReasonings,0.0001,16,1,0.01,,,OOM Error,
+FineLlama-3.1-8B_instruct_eval_lr0.0001_batch16_epochs1_wd0.1_WithoutReasonings,0.0001,16,1,0.1,,,OOM Error,
+FineLlama-3.1-8B_instruct_eval_lr0.0001_batch16_epochs3_wd0.01_WithoutReasonings,0.0001,16,3,0.01,,,OOM Error,
+FineLlama-3.1-8B_instruct_eval_lr0.0001_batch16_epochs3_wd0.1_WithoutReasonings,0.0001,16,3,0.1,,,OOM Error,
+FineLlama-3.1-8B_instruct_eval_lr0.0001_batch16_epochs5_wd0.01_WithoutReasonings,0.0001,16,5,0.01,,,OOM Error,
+FineLlama-3.1-8B_instruct_eval_lr0.0001_batch16_epochs5_wd0.1_WithoutReasonings,0.0001,16,5,0.1,,,OOM Error,
